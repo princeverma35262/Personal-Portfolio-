@@ -27,7 +27,7 @@ This portfolio website showcases my projects, technical skills, certifications, 
 https://github.com/princeverma35262/Personal-Portfolio-.git
 ## Author
 
-Anuj Kumar
+Prince Verma
 
 GitHub: https://github.com/princeverma35262/portfolio.git
 LinkedIn:https://www.linkedin.com/in/prince-verma-357345327
