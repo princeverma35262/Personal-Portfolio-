@@ -24,7 +24,7 @@ This portfolio website showcases my projects, technical skills, certifications, 
 
 ## Live Website
 
-https://aanujml.github.io/portfolio/
+https://github.com/princeverma35262/Personal-Portfolio-
 
 ## Author
 
@@ -32,4 +32,4 @@ Anuj Kumar
 
 GitHub: https://github.com/aanujml
 LinkedIn:www.linkedin.com/in/iaanuj
-Portfolio:https://aanujml.github.io/portfolio/
+Portfolio:https://github.com/princeverma35262/Personal-Portfolio-
