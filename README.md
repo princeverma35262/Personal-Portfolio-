@@ -24,7 +24,7 @@ This portfolio website showcases my projects, technical skills, certifications, 
 
 ## Live Website
 
-https://github.com/princeverma35262/Personal-Portfolio-
+https:princeverma35362.github.io/Personal/Portfolio
 
 ## Author
 
